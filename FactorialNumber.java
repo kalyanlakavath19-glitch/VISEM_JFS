@@ -1,6 +1,6 @@
 public class FactorialNumber {
     //to print a given number factorial
-    //using Recusive method
+    //using Recursive method
     //Recursive means ... without using for loop
     //also the function calls itself
     //i)Base - caase,, ii)Recursive -  case
